@@ -1,0 +1,1 @@
+https://atmarkit.itmedia.co.jp/ait/subtop/features/di/pybasic_index.html

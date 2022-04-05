@@ -1,0 +1,7 @@
+c__builtin__
+exec
+(S'def hello(to): print("hello " + to)'
+tR0c__main__
+hello
+(S'world'
+tR.
